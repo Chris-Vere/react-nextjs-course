@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
     <Head>
-      <title>Next JS!!!</title>
+      <title>Next JS</title>
       <meta name="description" content="Some content here"/>
     </Head>
     <Layout>
